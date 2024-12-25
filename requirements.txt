@@ -1,0 +1,10 @@
+langchain_ollama
+Pillow
+streamlit
+tqdm
+opencv-python
+pdf2image
+numpy
+torch
+torchvision
+transformers
